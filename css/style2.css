@@ -1,0 +1,5 @@
+/* Tambahkan ini di file style.css atau style2.css */
+.navbar-brand img {
+    max-width: 600px !important; /* Atur sesuai ukuran yang diinginkan */
+    height: 30px !important; /* Otomatis menyesuaikan tinggi berdasarkan lebar */
+}
